@@ -3,17 +3,25 @@ title: Problem Founder Fit
 date: '2021-07-27'
 tags: ['investing', 'startups', 'founders']
 draft: false
-summary: Why problem founder fit is the number 1 thing to evaluate in early stage startups.
+summary: Early stage investing is not only about the people, but the match between those people and the problem space. 
 ---
 
-Early stage investing is hard. Who would’ve known that a taxi cab over the phone app would become Uber, or that a MMORPG company would become Slack?
+Early stage investing is hard. Who would’ve had the foresight to see that a taxi cab app would become a universal transportation service or that a multi player online game would become what everyone uses for chat at work?
 
-Predicting the future is hard and only fools claim to be able to do it successfully. But that is the nature of early stage investing, you’re supposed to be able to see the future and bet on it.
+If there's one lesson I've taken away from early stage investing, it's that predicting the future is s fool's game. While sometimes you can see a rough shape of it in the early days, more often than things dramatically change.
 
-But I've come to think that's not not actually the truth. I think early stage investing is much more about betting on people than betting on the future. It’s tough to figure out the future and it’s much easier to bet on a person who can build the future.
+That's why an oft repeated slogan in early stage investing is that it's all about the people. If you meet great people, put the blinders on and just invest without overthinking it. Ideas can change, but people are much harder to change.
 
-When you hear about what people invest in, you often hear it’s a mix of team, market, or growth. I think there's a spectrum — early stage is team, venture is market, and late stage is about growth (aka financials).
+Now while I generally ascribe to this philosophy, I thought it would be worth being slightly more specific. "Investing in great people" is vague and subjective. What's great to one person can be trash to another. 
 
-Early stage investing is all about betting on the people. Ideas change, markets change, but the people don’t. Not to mention that markets are hard to size in the beginning. Anyone can do a bottoms up analysis of the market opportunity. But the best companies don’t fit neatly into existing markets, they create new ones. I’ve been misled by market size concerns more than a few times and have been wrong.
+What I find more useful is to complement the idea of "investing in great people" to "investing in great people with great problem founder fit". 
 
-So while you have to consider the market, when you meet a great founder in the early stage and the market is directionally right, then bet on it. And a ‘great’ founder imo is all about problem founder fit.
+Problem founder fit is when the founder is obsessed with this problem their whole lives and will stop at nothing to solve it. If this company failed, they would start tackling the same problem with another angle.
+
+But it's not just an obsessive desire to solve a specific problem. The founder also needs to have cultivated the requisite skills to solve the problem. If a founder is obsessed with gene editing but has no science skills, it will likely be pretty hard to build a successul gene editing company.
+
+This is all easy to say, but in practice it's quite a rare thing to see. Sometimes you meet great founders but without problem founder fit. Sometimes you meet folks with great problem fit but aren't the right founders to tackle it. Threading the needle is hard!
+
+But when you do find it, it's quite a magical thing. I always say that David at Retool is a great example. He was a lifelong developer, had built internal tools at Palantir, and you could tell that he had the juice. Founders like David you should insta-fund.
+
+Sometimes you meet great folks without problem founder fit but seem like exceptional founders. The argument there is that if it's not this one, the next one will be good, so you should still fund. I've fallen victim to this myself and while I've gotten lucky here and had it work out, I'd say that I think this happens far less often than you might think. If there really is an exceptional founder, fund them no matter what but oftentimes they're not and you should wait.
