@@ -2,10 +2,10 @@ const siteMetadata = {
   title: "Chris Yin's Blog",
   author: 'Chris Yin',
   headerTitle: 'Chris Yin',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'My personal blog',
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'chrisyin.com',
+  siteUrl: 'chrisyin.xyz',
   siteRepo: 'https://github.com/ChrisEYin/tailwind',
   // siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',

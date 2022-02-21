@@ -9,17 +9,17 @@ import Image from '@/components/Image';
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
   const { date, title, slug, fileName } = frontMatter;
 
-  const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/blog/${fileName}`;
+  const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/writing/${fileName}`;
   const discussUrl = (slug) =>
     `https://mobile.twitter.com/search?q=${encodeURIComponent(
-      `${siteMetadata.siteUrl}/blog/${slug}`
+      `${siteMetadata.siteUrl}/writing/${slug}`
     )}`;
 
   const pageViews = undefined;
 
   return (
     <>
-      <BlogSEO url={`${siteMetadata.siteUrl}/blog/${frontMatter.slug}`} {...frontMatter} />
+      <BlogSEO url={`${siteMetadata.siteUrl}/writing/${frontMatter.slug}`} {...frontMatter} />
       <ScrollTopAndComment />
       <article>
         <div>
