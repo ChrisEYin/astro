@@ -37,14 +37,12 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 <PageTitle>{title}</PageTitle>
               </div>
             </div>
-            <div className="flex justify-between items-center">
-            </div>
+            <div className="flex justify-between items-center"></div>
           </header>
           <div className="pb-8 " style={{ gridTemplateRows: 'auto 1fr' }}>
             <div className=" xl:pb-0 xl:col-span-3 xl:row-span-2">
               <div className="pb-4 prose dark:prose-dark max-w-none">{children}</div>
-              <div className="pt-6 flex justify-between text-sm text-gray-700 dark:text-gray-300">
-              </div>
+              <div className="pt-6 flex justify-between text-sm text-gray-700 dark:text-gray-300"></div>
             </div>
             <footer>
               <div className="flex flex-col text-sm font-medium sm:flex-row sm:justify-between sm:text-base">
