@@ -29,8 +29,9 @@ export default function Home() {
             <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
               <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
                 I'm an investor, entrepreneur, and degen. I love startups, investing, books, films,
-                and food. You can check out some of my writing here. Reach me anytime at @chriseyin
-                or by email.
+                and food. You can check out some of my <Link href={`/blog/`}>writing</Link> here.
+                Reach me at <Link href="http://www.twitter.com/chriseyin">@chriseyin</Link> or
+                by&nbsp;<Link href="mailto:christopher.e.yin@gmail.com">email</Link> anytime.
               </p>
             </div>
           </div>
