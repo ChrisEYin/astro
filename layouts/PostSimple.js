@@ -38,39 +38,12 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               </div>
             </div>
             <div className="flex justify-between items-center">
-              <div>
-                {authorDetails.map((author) => (
-                  <Link key={author.name} href={author.twitter}>
-                    <div className="flex items-center space-x-2 mb-1">
-                      {author.avatar && (
-                        <Image
-                          src={author.avatar}
-                          width="24px"
-                          height="24px"
-                          alt="avatar"
-                          className="w-10 h-10 rounded-full"
-                        />
-                      )}
-                      <dl className="text-sm font-medium leading-5 whitespace-nowrap">
-                        <dt className="sr-only">Name</dt>
-                        <dd className="text-gray-900 dark:text-gray-100">{author.name}</dd>
-                        <dt className="sr-only">Twitter</dt>
-                      </dl>
-                    </div>
-                  </Link>
-                ))}
-              </div>
-              {pageViews && <div>Page Views</div>}
             </div>
           </header>
           <div className="pb-8 " style={{ gridTemplateRows: 'auto 1fr' }}>
             <div className=" xl:pb-0 xl:col-span-3 xl:row-span-2">
               <div className="pb-4 prose dark:prose-dark max-w-none">{children}</div>
               <div className="pt-6 flex justify-between text-sm text-gray-700 dark:text-gray-300">
-                <Link href={editUrl(fileName)}>{'Thanks for reading 💖'}</Link>
-                <Link href={discussUrl(slug)} rel="nofollow">
-                  {'Discuss on Twitter'}
-                </Link>
               </div>
             </div>
             <footer>
