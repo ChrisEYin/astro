@@ -1,17 +1,25 @@
 ---
-title: What Got You Here
+title: What Got You Here Won't Get You There
 date: '2021-03-30'
 tags: ['life']
 draft: false
-summary: How to skip levels in life.
+summary: While your current skills helped you get to where you are, they're holding you back from the next level.
 ---
 
-I find myself saying this to people a lot. Yet despite constantly shilling this opinion to people, I was rethinking my life last week and realized how hard it is to truly internalize this.
+Progress is hard. It doesn't matter if it's getting a new job or trying to build your company. All progress is change and unfortunately, change is hard for most humans. 
 
-Progress is hard. Doesn't matter if it's getting a new job, trying to get promoted, growing your company, etc. All progress is change, and all change is hard. And while some milestones can be achieved by just working harder, I tend to think that the really big milestones only happen through a change in how you work vs. just working harder. Put another way, you can get incrementally better by working harder. But if you want to get 10x better in the same time, it's not by doing the same thing but faster. You have to do it differently.
+When you try to level up there are usually 2 ways to go about it. You either do what you're doing faster + better or you have to do something entirely different. I find the vast majority of people opt for the first option instead of realizing that the only path to material growth is the second option.
 
-I think what's hard with this advice is not only do you have to change, but what made you good is now actively holding you back from you getting better. For example if a software engineer is trying to become VPE, most people would know that something has to change in order to make that jump. But I think less people would realize that what made them a good software engineer actually makes them a bad VPE.
+Growth is a cycle of first learning how to do a new thing and after you grasp it, then perfecting how you do that new thing. A new skill is unlocked and as you master it you're able to use it to either be more efficient or do something you couldn't do before. 
 
-Real change is hard. Most folks can try to change by adding new behaviors/habits/etc - but shedding existing ones, especially ones that made you good is a whole different thing. You have to not only clearly assess yourself and who you are but then also have the fortitude to reassmble the core components that define you.
+At a certain point when you have done this enough, you develop a sort of toolbox with these different skills & processes. And then once you have enough tools to generally navigate most situations, you begin to instinctively reach back into the toolbox vs. learning how to use new tools.
 
-I’m still working through this and I definitely don’t think that I have all the answers yet. But I’m writing this down to help me come to terms with this and also as a reminder to myself that change is both hard to start and but also hard to keep going. But to get to where you want to go, you have to shed the past in order to get to the future.
+This is the point of stagnation. This is why over enough time, most folks regardless of talent or starting point can at least progress to the middle ranks just by virtue of spending time there. They become proficient in that thing and keep making their way up until you hit a ceiling of sorts.
+
+And the point is that those tools, while instrumental in helping you get to where you are now, are actively holding you back from going further. Imagine a meter that measures the totality of your skills. When you have a low amount of skills, you can easily double, triple, or even 10x your skill set. As you accumulate more skills though, the gains become less substantial until at some point you have to do a lot just to get an incremental 1% gain.
+
+The way to break out of this is to go back to the earlier choice - do the same thing better or do something entirely different. Optimization only gets you so far, new processes and workflows on the same toolset will only give you marginal gains. The only way to continue to get 10x gains at a higher level is to realize that you might need a new toolbox and to then go build that.
+
+You wouldn't use the same set of tools to build a skyscraper as you would to build a house. You wouldn't use the same techniques, materials, processes, etc. You'd have to net new how to learn how to build a skycraper. So while it's comforting to reach into the same toolbox, you have to realize that by doing so you're also limiting yourself to your current stature.
+
+The hack is that when you realize you're doing something you haven't done before, to actively forget everything you know about how to "do things". Throw it all away, focus on the goal, the constraints you have, and figure out from first principles how to tackle that. Odds are the way you accomplish said new thing will look quite different from how you accomplished prior things.
