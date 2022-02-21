@@ -11,7 +11,6 @@ github: https://github.com/ChrisEYin
 
 Hello! I'm Chris Yin -- 30 years old and living in the Bay Area. I'm currently an investor at [Scale Venture Partners](https://www.scalevp.com/) investing in early stage startups. Previously I was VP Product at [Rainforest QA](https://www.rainforestqa.com/), Director of Product Management at [Coupa](https://www.crunchbase.com/organization/coupa) and an early guy at [Xpenser](https://www.crunchbase.com/organization/xpenser). I've also made a number of [angel investments](https://angel.co/chrisyin).
 
-<div></div>
 
 A little about myself -- I grew up in the Bay Area and moved down to SoCal to go to [UCSD](https://ucsd.edu/). While I was there I started [a group for entrepreneurs](http://rady.ucsd.edu/ciid/pathways-ventures/) to hang out and [work](http://nextshark.com/ecoqube-how-this-startup-can-seriously-end-world-hunger/) [on fun](http://www.premedhq.com) [projects](http://www.bbc.com/future/story/20131030-net-lessons-for-worlds-poorest) [together](http://ivn.us/2012/12/08/locbit-young-ceo-amongst-citys-core-startups/).
 

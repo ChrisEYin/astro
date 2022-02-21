@@ -1,19 +1,19 @@
 const siteMetadata = {
-  title: 'Ephraim Atta-Duncan',
-  author: 'Ephraim Atta-Duncan',
-  headerTitle: 'Astrosaurus',
-  description: 'Ephraim Atta-Duncan, Software Developer in Ghana. Technical Writer in Ghana',
+  title: "Chris Yin's Blog",
+  author: 'Chris Yin',
+  headerTitle: 'Chris Yin',
+  description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
-  theme: 'system', // system, dark or light
-  siteUrl: 'https://astrosaurus.me',
-  siteRepo: 'https://github.com/dephraiim/astrosaurus.me',
-  siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.jpeg',
+  theme: 'dark', // system, dark or light
+  siteUrl: 'chrisyin.com',
+  siteRepo: 'https://github.com/ChrisEYin/tailwind',
+  // siteLogo: '/static/images/logo.png',
+  image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'ephraimduncan68@gmail.com',
-  github: 'https://github.com/dephraiim',
-  twitter: 'https://twitter.com/dephraiim',
-
+  email: 'christopher.e.yin@gmail.com',
+  twitter: 'https://twitter.com/chriseyin',
+  linkedin: 'https://www.linkedin.com/in/chriseyin', 
+  github: 'https://github.com/ChrisEYin',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics, umami or googleAnalytics
