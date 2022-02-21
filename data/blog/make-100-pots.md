@@ -6,7 +6,7 @@ draft: false
 summary: Good is better than perfect. Short fast revs rule everythign around me.
 ---
 
-I find myself saying this more often so I thought I’d write it down. There’s a story from the book [Art & Fear](http://www.amazon.com/dp/0961454733/?tag=codihorr-20 [1]) by David Bayles and Ted Orland about a ceramics teacher. The story is:
+I find myself saying this more often so I thought I’d write it down. There’s a story from the book [Art & Fear](https://www.amazon.com/Art-Fear-Observations-Rewards-Artmaking-ebook/dp/B0042JSQLU/) by David Bayles and Ted Orland about a ceramics teacher. The story is:
 
 > “The ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the quantity of work they produced, all those on the right solely on its quality.
 >
@@ -14,7 +14,7 @@ I find myself saying this more often so I thought I’d write it down. There’s
 >
 > Well, came grading time and a curious fact emerged: the works of highest quality were all produced by the group being graded for quantity. It seems that while the “quantity” group was busily churning out piles of work – and learning from their mistakes – the “quality” group had sat theorizing about perfection, and in the end had little more to show for their efforts than grandiose theories and a pile of dead clay.”
 
-I’ve written about [this concept](http://www.chrisyin.com/blog/2019/01/06/peeling-the-onion/ [2]) before but think it’s super important and under appreciated. If you want to learn to do something well, create incredibly small feedback loops and just run through them over and over.
+I’ve written about [this concept](http://www.chrisyin.com/blog/2019/01/06/peeling-the-onion/) before but think it’s super important and under appreciated. If you want to learn to do something well, create incredibly small feedback loops and just run through them over and over.
 
 It seems quite obvious. The more you do something, the better at it you’ll be. So if it's so obvious, why don’t people do it? 
 
