@@ -14,10 +14,10 @@ module.exports = {
         '9/16': '56.25%',
       },
       lineHeight: {
-        11: '2.75rem',
-        12: '3rem',
-        13: '3.25rem',
-        14: '3.5rem',
+        11: '3rem',
+        12: '3.25rem',
+        13: '3.5rem',
+        14: '3.75rem',
       },
       fontFamily: {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
@@ -38,8 +38,8 @@ module.exports = {
               code: { color: theme('colors.primary.400') },
             },
             p: {
-              marginTop: '4px',
-              marginBottom: '4px',
+              marginTop: '.10em',
+              marginBottom: '1.25em',
             },
             h1: {
               fontWeight: '700',
