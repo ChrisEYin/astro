@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com/in/chriseyin
 github: https://github.com/ChrisEYin
 ---
 
-Hey! I'm Chris Yin, thanks for stopping by. On pages like this I always wonder how in depth to go - you want to both provide enough detail but also keep it crisp enough so that it's interesting. So in my attempt at that I'll start with today and go backwards. I focus most of my time today as an investor of people, projects, and companies. I am currently irreparably drawn to crypto, but I still dabble in business software and the occasional consumer product. Before this I was an entrepreneur & operator.
+Hey! I'm Chris Yin, thanks for stopping by. On pages like this I always wonder how in depth to go - I want to both provide enough detail but also keep it crisp enough so that it's interesting. So in my attempt at that I'll start with today and go backwards. I focus most of my time today as an investor of people, projects, and companies. I am currently irreparably drawn to crypto, but I still dabble in business software and the occasional consumer product. Before this I was an entrepreneur & operator.
 
 People often ask where I invest and I always say that I play the field. I love greatness in any form and stage, so I don't see why I should restrict myself to a particular area. I started off in the early stage (pre-seeds & seeds), spent time in classic venture (Series A/B/C), and have flirted with growth (Series D+). I've been fortunate enough to see great companies & investors at all stages and it has given me an appreciation for the skills it takes to do each. And while I'd like to think I have some understanding of the game, I'm still learning everyday and the beauty of this business is that right as you think you have something figured out it all changes.
 
