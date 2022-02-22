@@ -18,9 +18,9 @@ We've been slowly spending more time online over the years, building our own onl
 
 So it's no surprise that for some people, their whole lives are more online than offline. Their communities, identity, philosophy, understanding of the world, etc all come from the internet. For some people, the internet is their God. And when these people live in toxic online communities like QAnon, it can go bad quickly.
 
-Then add covid to the mix. We went from slowly marching towards an online-dominant world to then all of a sudden everyone dialing it up to 1000 all at the same time. Our brains were just not ready for that level of online especially that quickly, and I think there are still repercussions to come.
+Then add covid to the mix. We went from very slowly moving towards an online-dominant world to then all of a sudden everybody dialing it up to 1000 simultaneously. We were suddenly all online, all together, all the time and we couldn't go anywhere else. No wonder things got weird. 
 
-That's why I've never understood people who talk about "the metaverse" in future tense. We're already here, the UI just isn't very good yet. Most people are already living in an online-dominant world, we just don't navigate through some 3d world in an animated avatar. Instead we jump from website to website on a browser or on a phone and interact with our digital worlds that way. Like if Twitter were a digital country, you'd catch me spending a lot of my time there.
+That's why I've never understood people who talk about "the metaverse" in future tense. We're already here, the UI just isn't very good yet. Most people are already living in an online-dominant world, we just don't navigate through some 3d world in an animated avatar. Instead we jump from website to website on a browser or on a phone and interact with our digital worlds that way. Like if Twitter went from a website to a digital country, I would prbably be a citizen.
 
 I don't know all the ramifications, but it is really cool seeing these internet-native communities rise with their own cultures, styles, and perspectives. And as our collective online & offline cultures continue to blend, internet-native groups can begin to really exert their influence not only online but also in the real world. And it's hard to see how internet-native communities don't end up becoming the more powerful one.
 

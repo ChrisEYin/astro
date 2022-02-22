@@ -18,4 +18,4 @@ Jeff Bezos has mentioned this concept of one-way doors vs two-way doors in one o
 
 It's a simple idea that is wonderfully clarifying. If you approach any decision, first ask yourself if it's a one-way or a two-way door. If it's a two-way door, don't overthink it and just pick something, you'll learn more from actually turning the card over than debating what is on the other side. 
 
-However, if you're facing what you think is a two-way door, then you should take a bit more time to think it through and weigh the options. There probably aren't that many two-way door decision in life so you don't have to overly fret, but when you see one you should really give it the time it deserves.
+However, if you're facing what you think is a one-way door, then you should take a bit more time to think it through and weigh the options. There probably aren't that many one-way door decision in life so you don't have to overly fret, but when you see one you should really give it the time it deserves.
