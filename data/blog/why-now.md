@@ -3,7 +3,7 @@ title: Why Now
 date: '2020-04-10'
 tags: ['investing', 'venture', 'whynow', 'checklist']
 draft: false
-summary: There are no new ideas, only timing ideas.
+summary: This is the most important question in startups. There are no new ideas, only timing ideas.
 ---
 
 
