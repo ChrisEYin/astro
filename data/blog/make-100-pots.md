@@ -8,7 +8,7 @@ summary: Good & done is better than perfect & in progress. High frequency revs r
 
 I find that many high achieving people have the same problem. They get very fixated on knowing everything ahead of time, getting every detail perfect, etc before they ship. They belabor endlessly over every small thing and unfortunately more often than not I find that these people never actually ship anything.
 
-I get why they're this way. Oftentimes these people come from a similar path - tier 1 schools, jobs at name brand companies, etc. They're used to well defined roads with clear rules & parameters. And so the natural inclincation is that when they are thrown into a new game, they first look for the rules before they begin to play.
+I get why they're this way. Oftentimes these people come from a similar path - tier 1 schools, jobs at name brand companies, etc. They're used to well defined roads with clear rules & parameters. And so the natural inclincation is that when they are thrown into a new game, they first think about the game to try to understand it rather than just start playing.
 
 There’s a story that I love from [Art & Fear](https://www.amazon.com/Art-Fear-Observations-Rewards-Artmaking-ebook/dp/B0042JSQLU/) about a ceramics teacher and a pottery class. The story goes:
 

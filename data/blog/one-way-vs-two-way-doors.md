@@ -6,9 +6,9 @@ draft: false
 summary: A lesson from Bezos - how to know when a decision is actually a decision.
 ---
 
-Some people can't decide on anything. When it comes time to choose between options, these people belabor every possible scenario endlessly and often never even actually make a decision. You see this all the way from people trying to choose a career path down to something as simple as picking a restaurant.
+Some people have a really hard time making decisions. When it comes time to decide, they belabor every possible option endlessly and often never even actually make a decision. You see this all the way from people trying to choose a career path down to something as simple as choosing what to eat for lunch.
 
-Making decisions is hard and takes up energy. Cue the Steve Jobs decision fatigue story. So if that's true, then before you even spend the time & energy to run through a decision, it's worth first asking if you even need to make a decision. 
+Making decisions is hard and takes up energy. Cue the Steve Jobs same clothing every day decision fatigue story. So if that's true, then before you even spend the time & energy to run through a decision, it's worth first asking if you even need to make a decision. 
 
 A way to think about this is to use the idea of one-way vs. two-way doors. Jeff Bezos has previously mentioned this concept in one of his [shareholder letters](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm):
 
