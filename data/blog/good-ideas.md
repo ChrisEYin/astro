@@ -10,7 +10,7 @@ There are a number of sayings about good ideas, but one of my favorites is from 
 
 The basic idea is that if we plot ideas on a 2x2 matrix (one axis being consensus & non consensus, the other being right & wrong), the only ones that matter are those that are non consensus and right. Anything wrong is wrong. But being right and consensus is also bad — everyone already knows it, so there’s nothing interesting there. Hence the below matrix:
 
-![2x2-wealthfront](/images/wealthfront2x2.jpeg)
+![2x2-wealthfront](public/static/images/wealthfront2x2.jpeg)
 
 It's a simple insight. But it's hard to find ideas that are both non-consensus and right. Not only are they hidden, but by definition it will look sound silly at first. As [Chris Dixon](https://twitter.com/cdixon) said, the [next big thing will start out looking like a toy](https://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy).
 
