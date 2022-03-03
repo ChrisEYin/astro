@@ -16,6 +16,14 @@ Building anything new is time intensive. Whether you're starting a restaurant or
 
 So if that's true, then it means that regardless of what you're doing, the effort you have to put in is more or less fixed. Sure it's not exactly the same for every new idea, but the truth is that any new thing is almost *always* all consuming.
 
-There are people I know who run animal daycares that work just as hard as startup people. The problem is that an animal daycare doesn't have the same potential reward that startups have. And so even though the animal daycare people are working just as hard (maybe harder!) than startup folks, they're likely playing for a much smaller prize.
+There are people I know who run animal daycares that work just as hard as startup people. The problem is that an animal daycare doesn't have the same potential reward that startups have. And so even though the animal daycare people are working just as hard (maybe harder!) than startup folks, they're playing for a much smaller prize.
 
 And that's what I mean by some ideas are "too small". Because startups take so much out of you already, you should really take the time to focus on problem selection before you get going. It's an insanely high leverage decision that can make a very meaningful difference in your outcome. Funnily enough tackling harder problems oftentimes ends up actually being easier than tackling the easier ones. But more on that later :).
+
+--
+
+*Update 3/2/22*
+
+Saw this tweet and thought it encapsulated this well. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s as hard to start a small business as it is a big one. You will suffer the same toll financially and psychologically to bring it into existence. So if you were going to dedicate yourself to a business you should choose one with the potential to be huge — Steve Schwarzman.</p>&mdash; Amjad Masad (@amasad) <a href="https://twitter.com/amasad/status/1499199067892584448?ref_src=twsrc%5Etfw">March 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
