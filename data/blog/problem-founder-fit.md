@@ -1,7 +1,7 @@
 ---
 title: Problem Founder Fit
 date: '2021-07-27'
-tags: ['investing', 'startups', 'founders']
+tags: ['investing', 'startups', 'founders', 'greatness']
 draft: false
 summary: Early stage investing is not only about the people, but the match between those people and the problem space. 
 ---

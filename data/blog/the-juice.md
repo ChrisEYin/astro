@@ -1,7 +1,7 @@
 ---
 title: The Juice
 date: '2022-02-22'
-tags: ['founders']
+tags: ['founders', 'greatness']
 draft: false
 summary: One of the key requirements for greatness. You cannot be great without the juice.
 ---
