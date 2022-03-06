@@ -3,7 +3,7 @@ title: Juggling Bears
 date: '2021-07-07'
 tags: ['founders', 'greatness']
 draft: false
-summary: Interesting things live at the intersection of two or more markets. The more the better.
+summary: The most interesting things live at the intersection of two or more markets. 
 ---
 
 There's a [Naval PandoMonthly](https://www.youtube.com/watch?v=2htl-O1oDcI) from back in the day where he talks about why people find him interesting. I can't remember where it is and am too lazy to find, but the quote goes something like:
