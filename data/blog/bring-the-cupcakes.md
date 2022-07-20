@@ -8,7 +8,7 @@ summary: Not Ken Norton's Bring the Donuts. A simple (but not easy!) way to cons
 
 A friend recently gave me some advice he had gotten from a famous VC. This investor was very successful with a knack for not only spotting but more importantly getting into really hot companies. When my friend asked him how, he said the key was something he called "bringing the cupcakes". 
 
-The idea is really quite simple. It's just about giving good gifts. In a world where there are lots of dollars competing for a small pool of exceptional companies, personal touches make all the difference. It's so simple that it seems trite. Find out what people like and gift it to them.
+The idea is really quite simple. It's just about giving good gifts. In a world where there are lots of dollars competing for a small pool of exceptional companies, personal touches mean everything. It almost seems trite. Find out what people like and gift it to them. And what I love about the phrase is that something as simple as bringing cupcakes can make all the difference.
 
 This really reminded me of a passage from [Michael Ovitz](https://en.wikipedia.org/wiki/Michael_Ovitz)'s excellent book [Who Is Michael Ovitz?](https://www.amazon.com/Who-Michael-Ovitz/dp/1591845548):
 
