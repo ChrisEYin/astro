@@ -22,6 +22,6 @@ But it's not just an obsessive desire that makes great problem founder fit. The 
 
 It's easy to identify, but hard to find. In practice I think it's actually very rare. Sometimes you meet great founders but unfortunately without great problem founder fit. Sometimes you meet founders with great problem fit but aren't the right founders to tackle it. Threading the needle is tricky!
 
-When you do find it though, it's a magical thing. I always say that David at Retool is a great example. He was a lifelong developer, had built internal tools at Palantir, and you could tell that he had the juice. Founders like David you should insta-fund.
+When you do find it though, it's a magical thing. I always say that David at [Retool](https://retool.com/) is a great example. He was a lifelong developer, had built internal tools at Palantir, and you could tell that he had [the juice](/blog/the-juice). Founders like David you should insta-fund.
 
 Sometimes you meet great folks without problem founder fit but they seem like exceptional founders. The argument here is that even if it's not this startup, the next startup will be good, so you should still fund them. I've fallen victim to this myself and while I've gotten lucky here and had it work out, I'd say that I think this happens far less often than you might think. If there really is an exceptional founder, you should probably fund them no matter what but oftentimes it's just the heat of the moment and worth waiting for real problem founder fit.
