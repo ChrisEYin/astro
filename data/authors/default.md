@@ -16,3 +16,15 @@ People often ask where I invest and I always say that I play the field. I love g
 Before I began selling money, I built things. I worked primarily in business software and have helped companies as a founder going from 0 -> 1, an operator going from 1 -> 10, and an executive helping scale from 10 -> 100. I often tell folks that in my operating journey I was able to sell one company, take one public, and unfortunately drive one to zero. I guess I like to play the field here too.
 
 On the personal side, I've been in the SF Bay Area most of my life (regrettably, although I can think of worse places to live). Today I find myself bouncing around around SF, LA, NYC, and yes, Miami. You'll find me in noodle shops, bookstores, theaters, bars, dispensaries, and I'm always up for a good party. I love meeting new people in all walks of life so please give me a [shout](http://www.twitter.com/chriseyin) anytime!
+
+---
+
+Hey! Thanks for stopping by. I'm Chris Yin, and this is my personal blog. It's infrequently maintained, but I do try to keep it somewhat updated.
+
+I've done many things, but today I am one of the founders & CEO of Plume Network, a blockchain focused on RWAs. There's a ton of stuff out there on us so I'll keep it brief -- we build a network, an ecosyste, and a blockchain focused on making it easy to interact with the real world onchain. 
+
+Before this I was in venture. I've invested from the earliest stages to the latest stages and have deployed over $100M+ into 100+ copanies. I've been grateful to get to invest in a few greats like Retool, WhatNot, and many others that I've gotten to learn from. 
+
+And prior to venture I was an operator, mostly in product. I've helped companies go from 0 --> 1, 1 --> 10, and also 10 --> 100. Have been an IC, a manager, and an executive and was able to sell one company, take one public, and then also take one to zero. 
+
+I'm all over the place nowadays but am still unfortunately irreparably stuck on Twitter still. I'm a bit backed up nowadays but please do feel free to reach out anytime!
