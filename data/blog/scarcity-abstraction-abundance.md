@@ -10,7 +10,7 @@ I was reading [Alex Danco](https://twitter.com/Alex_Danco)'s excellent series [E
 
 Alex uses today's tech companies to showcase this scarcity -> abundance cycle. Intel made hard to use microprocessors programmable so computing power was easily accessible. Microsoft made the PC easy to build on top through their operating system. Cisco made networking easy so connectivity was abundantly available. Google made information free, Facebook your social graph, and so on.
 
-In [How We Got to Now](https://www.amazon.com/How-We-Got-Now-Innovations/dp/1594632960), Steven Johnson talks about some major innovations in history and the subsequent [hummingbird effects](https://medium.com/how-we-got-to-now/the-hummingbird-effect-c3112b723408#.hok6487pk). What struck me was how well these non tech examples fit the scarcity & abstraction framework. So a few below. 
+In [How We Got to Now](https://www.amazon.com/How-We-Got-Now-Innovations/dp/1594632960), Steven Johnson talks about some major innovations in history and the subsequent [hummingbird effects](https://medium.com/how-we-got-to-now/the-hummingbird-effect-c3112b723408#.hok6487pk). What struck me was how well these non tech examples fit the scarcity & abstraction framework. So a few below.
 
 **Temperature**
 
@@ -36,4 +36,4 @@ In the early 1600’s [Galileo](https://en.wikipedia.org/wiki/Galileo_Galilei) i
 
 --
 
-I love these examples and think it's a useful framework for thinking about [good ideas](/blog/pick-hard-problems). Figure out where points of friction exist, figure out how to abstract it away to make that resource abundant and then solve the new point of friction. Obviously easier said than done! :)
+I love these examples and think it's a useful framework for thinking about [good ideas](/writing/pick-hard-problems). Figure out where points of friction exist, figure out how to abstract it away to make that resource abundant and then solve the new point of friction. Obviously easier said than done! :)
