@@ -7,7 +7,7 @@ export default function BlogPost({ title, summary, date, slug }) {
       <article className="xl:items-baseline">
         <div className="flex flex-col sm:flex-row items-left sm:items-center justify-between">
           <h3 className="text-2xl font-bold leading-8 tracking-tight">
-            <Link href={`/blog/${slug}`} className="text-gray-900 dark:text-gray-100">
+            <Link href={`/writing/${slug}`} className="text-gray-900 dark:text-gray-100">
               {title}
             </Link>
           </h3>

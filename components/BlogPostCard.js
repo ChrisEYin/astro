@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function BlogPostCard({ title, slug, index, date }) {
   return (
-    <Link href={`/blog/${slug}`}>
+    <Link href={`/writing/${slug}`}>
       <a className="w-full" aria-label={title}>
         <div className="w-full border-b border-gray-200 dark:border-gray-700 py-3 transform hover:scale-[1.01] transition-all">
           <div className="flex flex-col sm:flex-row justify-between sm:items-center">
