@@ -25,11 +25,11 @@ export default function Home() {
             </h3>
             <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
               <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-                I'm an investor, entrepreneur, and degen. I love crypto, startups, investing, books,
-                films, and food. You can check out some of my <Link href={`/blog/`}>writing</Link>
-                &nbsp;here. Reach me at&nbsp;
-                <Link href="http://www.twitter.com/chriseyin">@chriseyin</Link>
-                &nbsp;or by <Link href="mailto:christopher.e.yin@gmail.com">email</Link> anytime.
+                I'm an founder & investor. I'm a big fan of startups, investing, books, films, and
+                food. You can check out some of my <Link href={`/blog/`}>writing</Link>
+                &nbsp;here. The best way to reach me is through a warm intro but you can always try
+                to reach me at&nbsp;
+                <Link href="http://www.twitter.com/chriseyin">@chriseyin</Link> as well!
               </p>
             </div>
           </div>
