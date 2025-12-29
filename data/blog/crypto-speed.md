@@ -3,7 +3,7 @@ title: Crypto Speed
 date: '2021-11-12'
 tags: ['crypto']
 draft: false
-summary: It turns out a 24x7 online casino is as crazy as it sounds.
+summary: It turns out a 24x7 online casino is as crazy as it sounds. Speed is a feature.
 ---
 
 One of the most pronounced things about crypto is the clock speed. Things in crypto aren’t just a little bit faster than web2 — they’re 100x faster.

@@ -3,10 +3,10 @@ title: What Got You Here Won't Get You There
 date: '2021-03-30'
 tags: ['life']
 draft: false
-summary: While your current skills helped you get to where you are, they're holding you back from the next level.
+summary: Your current skills helped you get to where you are. But now they're holding you back from the next level.
 ---
 
-Progress is hard. It doesn't matter if it's getting a new job or trying to build your company. All progress is change and unfortunately, change is hard for most humans. 
+Progress is hard. It doesn't matter if it's getting a new job or trying to build your company. All progress is change and unfortunately, change is hard for most humans.
 
 When you try to level up there are usually 2 ways to go about it. You either do what you're doing faster + better or you have to do something entirely different. I find the vast majority of people opt for the first option instead of realizing that the only path to real growth is the second option.
 
@@ -18,7 +18,7 @@ This is the point of stagnation. This is why over enough time, many folks can ge
 
 And more insidious than that, the tools that helped you get here are not only not helping you advance, but they are now actively holding you back from going further. Imagine a meter that measures the totality of your skills. When you have a low amount of skills, you can easily double, triple, or even 10x your skill set. As you accumulate more skills though, the gains become less substantial until at some point you have to do a lot just to get an incremental 1% gain.
 
-It's not necessarily laziness or being stubborn that causes this problem. It's that the toolset you have is actually pretty good. It can solve the majority of issues that come your way and so it makes sense to rely on your accumulated skills vs. doing something new. 
+It's not necessarily laziness or being stubborn that causes this problem. It's that the toolset you have is actually pretty good. It can solve the majority of issues that come your way and so it makes sense to rely on your accumulated skills vs. doing something new.
 
 But material progress and new goals aren't the majority of issues. By definition these are harder and thus less people have accomplished them. And so it's useless to try to use tools that are designed for solving general problems to solve more esoteric ones.
 

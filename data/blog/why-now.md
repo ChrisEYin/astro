@@ -3,7 +3,7 @@ title: Why Now
 date: '2020-04-10'
 tags: ['investing', 'venture', 'whynow', 'checklist']
 draft: false
-summary: This is the most important question in startups. There are no new ideas, only timing.
+summary: The most important question in startups. There are no new ideas, only timing.
 ---
 
 One quesion I always focus on when meeting new companies is why now. The reason being - I don't believe there are new ideas. Every idea has already been thought up and likely tried already too. The only question is timing. What has changed in the world that now makes this idea viable vs. at any other point in time?

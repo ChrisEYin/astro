@@ -3,7 +3,7 @@ title: Scarcity, Abstraction & Abundance
 date: '2016-07-19'
 tags: ['books', 'history', 'innovation']
 draft: false
-summary: Money is made from points of friction. Innovation makes those scarce resources abundant and then creates a new higher level point of friction.
+summary: Money is made from points of friction. Innovation makes those scarce resources abundant, and then creates a new higher level point of friction.
 ---
 
 I was reading [Alex Danco](https://twitter.com/Alex_Danco)'s excellent series [Emergent Layers](https://medium.com/@alexdanco/emergent-layers-an-introduction-f91c3cbe0175#.4iz7xgc7y) and his post on [scarcity, abstraction & abundance](https://medium.com/swlh/emergent-layers-chapter-1-scarcity-abstraction-abundance-5705666e4f15#.wxm5osdmh) really stuck out to me. The core idea is that money is made from points of friction, meaning something is hard to get so you can charge for access. Technology then abstracts that friction away, making that thing abundantly available and then a new point of friction emerges.

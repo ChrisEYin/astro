@@ -3,7 +3,7 @@ title: The Juice
 date: '2022-02-22'
 tags: ['founders', 'greatness']
 draft: false
-summary: One of the key requirements for greatness. You cannot be great without the juice.
+summary: One of the key requirements for greatness. You know it when you see it. And you cannot be great without the juice.
 ---
 
 One of the most important things I look for in founders is what I call "the juice". Although it's not the only thing that matters, it is an absolute requirement for greatness. I've found it hard to articulate what it is, so I'll attempt to put it into words here.

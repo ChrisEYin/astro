@@ -3,7 +3,7 @@ title: One Way vs Two Way Doors
 date: '2021-02-21'
 tags: ['life', 'decisions']
 draft: false
-summary: A lesson from Bezos -- how to know when a decision is actually a decision.
+summary: A lesson from Bezos. A framework on when to decide, and when to act.
 ---
 
 Some people have a really hard time making decisions. When it comes time to decide, they belabor every possible option endlessly and often never even actually make a decision. You see this all the way from people trying to choose a career path down to something as simple as choosing what to eat for lunch.

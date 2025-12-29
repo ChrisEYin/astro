@@ -3,7 +3,7 @@ title: Make 100 Pots
 date: '2020-2-02'
 tags: ['artandfear', 'advice', 'loops', 'excellence']
 draft: false
-summary: Good & done is better than perfect & in progress. High frequency revs rule everything around me.
+summary: Good & done is better than perfect but in progress.
 ---
 
 I find that many high achieving people have the same problem. They get very fixated on knowing everything ahead of time, getting every detail perfect, etc before they ship. They belabor endlessly over every small thing and unfortunately more often than not I find that these people never actually ship anything.

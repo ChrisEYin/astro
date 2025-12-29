@@ -3,7 +3,7 @@ title: Semi Technical
 date: '2021-05-08'
 tags: ['b2b', 'demographics']
 draft: false
-summary: A new class of people in the workforce allows a new class of tools & companies to be built.
+summary: Tech & time have created a new class of people in the workforce. This demographic is an interesting new market to explore.
 ---
 
 There have typically been two groups of people in companies - those who are technical and those who aren't. If you are technical, you find yourself working on the product (ie in eng, design, pm, etc) and if you're not, you end up supporting the product (ie in sales, marketing, support, etc).

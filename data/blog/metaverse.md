@@ -1,9 +1,9 @@
 ---
-title: The Metaverse Is Already Here
+title: The Metaverse
 date: '2021-02-01'
 tags: ['investing', 'trends', 'markets', 'metaverse']
 draft: false
-summary: We already live in the metaverse, the interface just isn't what we were told it would be.
+summary: We already live in the metaverse, it's just not what we were told it would be.
 ---
 
 The last few weeks have been insane and left me in a bit of shock. The insurrection on the capital & the entire GME saga are two good examples. I look at both of those and think - what the hell happened there??

@@ -3,7 +3,7 @@ title: Pulling The Thread
 date: '2022-12-22'
 tags: ['startups', 'founder']
 draft: false
-summary: Riffing on Chris Dixon's and Balaji's seminal post the idea maze.
+summary: How ideas are actually found. Riffing on Chris Dixon's and Balaji's seminal post, The Idea Maze.
 ---
 
 I've been thinking about new startup ideas a lot recently. And when talking about the process I find myself constantly referring to [Chris Dixon](https://twitter.com/cdixon)'s excellent post, [the idea maze](https://cdixon.org/2013/08/04/the-idea-maze). It's excellent and also worth reading the much longer source material from [Balaji](https://twitter.com/balajis) as well.

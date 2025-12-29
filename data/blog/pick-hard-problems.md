@@ -3,7 +3,7 @@ title: Pick Hard Problems
 date: '2021-01-08'
 tags: ['startups']
 draft: false
-summary: All startups are hard and take everything you've got. If the effort is mostly constant, then make sure to pick a problem with bigger rewards.
+summary: All startups are hard and take everything you've got. If the effort is  constant, then pick problems with big rewards.
 ---
 
 Every other week I have convos with friends that are thinking about starting new companies. Maybe it’s just the topic du jour or just the current sentiment in my network, but it does genuinely feel like there are more people than ever thinking about doing \~\*their own thing\*\~.
@@ -14,7 +14,7 @@ While there is no idea that better or worse than others, a common mistake I see 
 
 Building anything new is time intensive. Whether you're starting a restaurant or starting SpaceX, both will likely occupy 100% of your time & energy. Nothing will go to plan, it will need constant attention, you & your family will be stressed all the time, and it will keep you perpetually anxious. You will have to give it your all regardless of what you're doing.
 
-So if that's true, then it means that regardless of what you're doing, the effort you have to put in is more or less fixed. Sure it's not exactly the same for every new idea, but the truth is that any new thing is almost *always* all consuming.
+So if that's true, then it means that regardless of what you're doing, the effort you have to put in is more or less fixed. Sure it's not exactly the same for every new idea, but the truth is that any new thing is almost _always_ all consuming.
 
 There are people I know who run animal daycares that work just as hard as startup people. The problem is that an animal daycare doesn't have the same potential reward that startups have. And so even though the animal daycare people are working just as hard (maybe harder!) than startup folks, they're playing for a much smaller prize.
 
@@ -22,8 +22,8 @@ And that's what I mean by some ideas are "too small". Because startups take so m
 
 --
 
-*Update 3/2/22*
+_Update 3/2/22_
 
-Saw this tweet and thought it encapsulated this well. 
+Saw this tweet and thought it encapsulated this well.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s as hard to start a small business as it is a big one. You will suffer the same toll financially and psychologically to bring it into existence. So if you were going to dedicate yourself to a business you should choose one with the potential to be huge — Steve Schwarzman.</p>&mdash; Amjad Masad (@amasad) <a href="https://twitter.com/amasad/status/1499199067892584448?ref_src=twsrc%5Etfw">March 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
