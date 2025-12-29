@@ -11,7 +11,7 @@ const LayoutWrapper = ({ children }) => {
         <div className="flex flex-col justify-between h-screen">
           <header className="flex items-center py-10">
             <div className="flex flex-auto items-center justify-between">
-              <nav className="flex flex-1 items-center text-base leading-5">
+              <nav className="flex flex-1 items-center justify-center sm:justify-start text-base leading-5">
                 {headerNavLinks.map((link) => (
                   <Link
                     key={link.title}
