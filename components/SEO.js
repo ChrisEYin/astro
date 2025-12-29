@@ -141,6 +141,7 @@ export const BlogSEO = ({ authorDetails, title, summary, date, lastmod, url, ima
   };
 
   const twImageUrl = featuredImages[0].url;
+  const ogImageUrl = featuredImages[0].url;
 
   return (
     <>
@@ -148,7 +149,7 @@ export const BlogSEO = ({ authorDetails, title, summary, date, lastmod, url, ima
         title={title}
         description={summary}
         ogType="article"
-        ogImage={featuredImages}
+        ogImage={ogImageUrl}
         twImage={twImageUrl}
       />
       <Head>
