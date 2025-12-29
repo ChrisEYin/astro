@@ -2,7 +2,7 @@ const siteMetadata = {
   title: "Chris Yin's Personal Site",
   author: 'Chris Yin',
   headerTitle: 'Chris Yin',
-  description: 'My personal blog',
+  description: "Chris Yin's Personal Site",
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://chrisyin.com',
