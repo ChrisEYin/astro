@@ -25,14 +25,13 @@ const LayoutWrapper = ({ children }) => {
                     <Link
                       key={link.title}
                       href={link.href}
-                      className={`p-2 mr-4 font-medium text-gray-900 sm:p-2 dark:text-gray-100 hover:underline hover:rounded ${
-                        isActive ? 'underline' : ''
-                      }`}
+                      className={`p-2 mr-4 font-medium text-gray-900 sm:p-2 dark:text-gray-100 hover:underline hover:rounded`}
                       style={
                         isActive
                           ? {
-                              textDecorationThickness: '2px',
-                              textUnderlineOffset: '6px',
+                              color: '#fed7aa',
+                              backgroundColor: 'rgba(14, 165, 233, 0.3)',
+                              borderRadius: '0.25rem',
                             }
                           : {}
                       }
