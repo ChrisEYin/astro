@@ -26,13 +26,13 @@ export default function Home() {
                   color: '#fed7aa',
                   textDecoration: 'underline',
                   textDecorationThickness: '4px',
-                  textUnderlineOffset: '16px',
+                  textUnderlineOffset: '12px',
                 }}
               >
                 Chris Yin
               </span>
             </h1>
-            <div className="pt-16 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
+            <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
               <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
                 I'm a founder & investor. I'm a big fan of startups, investing, books, films, and
                 food. You can check out some of my <Link href={`/writing/`}>writing</Link>
