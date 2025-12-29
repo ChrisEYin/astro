@@ -8,11 +8,9 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
     const searchContent = frontMatter.title + frontMatter.summary + frontMatter.tags.join(' ');
     return searchContent.toLowerCase().includes(searchValue.toLowerCase());
   });
-
   // If initialDisplayPosts exist, display it if no searchValue is specified
   const displayPosts =
     initialDisplayPosts.length > 0 && !searchValue ? initialDisplayPosts : filteredBlogPosts;
-
   return (
     <>
       <div className="divide-y">
@@ -44,7 +42,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
             </svg>
           </div>
         </div>
-        <ul>
+        <ul className="pt-2">
           {!filteredBlogPosts.length && 'No posts found.'}
           {displayPosts.map((frontMatter) => {
             const { slug, date, title, summary } = frontMatter;
