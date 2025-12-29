@@ -66,7 +66,7 @@ export const TagSEO = ({ title, description }) => {
   return (
     <>
       <CommonSEO
-        title={title}
+        title={`${title} - ${siteMetadata.author}`}
         description={description}
         ogType="website"
         ogImage={ogImageUrl}
@@ -146,7 +146,7 @@ export const BlogSEO = ({ authorDetails, title, summary, date, lastmod, url, ima
   return (
     <>
       <CommonSEO
-        title={title}
+        title={`${title} - ${siteMetadata.author}`}
         description={summary}
         ogType="article"
         ogImage={ogImageUrl}
