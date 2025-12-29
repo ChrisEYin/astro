@@ -6,7 +6,7 @@ export default function BlogPost({ title, summary, date, slug }) {
     <li key={slug} className="py-4">
       <Link href={`/writing/${slug}`}>
         <a
-          className="block rounded transition-all hover:bg-[rgba(14,165,233,0.15)] group px-3 py-2 -mx-3 -my-2"
+          className="block rounded transition-all hover:bg-[rgba(14,165,233,0.2)] group px-3 py-2 -mx-3 -my-2"
           style={{ textDecoration: 'none', borderBottom: 'none' }}
         >
           <article className="xl:items-baseline">
@@ -14,7 +14,7 @@ export default function BlogPost({ title, summary, date, slug }) {
               <h3 className="text-2xl font-bold leading-8 tracking-tight text-gray-900 dark:text-gray-100 group-hover:text-[#fed7aa]">
                 {title}
               </h3>
-              <div className="sm:text-base text-sm font-medium leading-6 text-gray-500 dark:text-gray-400 group-hover:text-[#fed7aa]">
+              <div className="hidden sm:block sm:text-base text-sm font-medium leading-6 text-gray-500 dark:text-gray-400 group-hover:text-[#fed7aa]">
                 <time dateTime={date}>{formatDate(date)}</time>
               </div>
             </div>
