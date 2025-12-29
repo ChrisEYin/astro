@@ -4,7 +4,7 @@ date: '2025-12-28'
 tags: ['life', 'startups', 'investing', 'hiring', 'plume']
 draft: false
 summary: Focusing on slope over y-intercept applies to any decision where you are looking for outsized returns.
-image: /static/images/slope-yintercept.png
+images: ['/static/images/slope-yintercept.png']
 ---
 
 A couple years ago when I was running product at RainforestQA, the phrase "hire for slope and not y-intercept" became popular. I'm not sure where it came from ([Sam Altman](https://x.com/sama) seems [to think](https://www.youtube.com/watch?v=93PaOPqzIpU) it was Gmail creator [Paul Buchheit](https://x.com/paultoo)), but it was pithy and quickly became common startup parlance.
