@@ -13,6 +13,7 @@ in progress
 - miami rule
 - both can true
 - what can happen will
+- bet on slope
 
 ideas
 

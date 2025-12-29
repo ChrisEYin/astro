@@ -1,5 +1,5 @@
 ---
-title: Chips on Shoulders
+title: Chips On Shoulders
 date: '2021-04-06'
 tags: ['founders']
 draft: false
