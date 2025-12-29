@@ -8,15 +8,12 @@ import Image from '@/components/Image';
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
   const { date, title, slug, fileName } = frontMatter;
-
   const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/blog/${fileName}`;
   const discussUrl = (slug) =>
     `https://mobile.twitter.com/search?q=${encodeURIComponent(
       `${siteMetadata.siteUrl}/blog/${slug}`
     )}`;
-
   const pageViews = undefined;
-
   return (
     <>
       <BlogSEO url={`${siteMetadata.siteUrl}/blog/${frontMatter.slug}`} {...frontMatter} />
@@ -24,7 +21,10 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       <article>
         <div>
           <header className="pb-10">
-            <div className="mt-4 space-y-1 text-left">
+            <div className="mt-4 space-y-1 text-center">
+              <div>
+                <PageTitle>{title}</PageTitle>
+              </div>
               <dl>
                 <div>
                   <dt className="sr-only">Published on</dt>
@@ -33,14 +33,11 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   </dd>
                 </div>
               </dl>
-              <div>
-                <PageTitle>{title}</PageTitle>
-              </div>
             </div>
             <div className="flex justify-between items-center"></div>
           </header>
-          <div className="pb-8 " style={{ gridTemplateRows: 'auto 1fr' }}>
-            <div className=" xl:pb-0 xl:col-span-3 xl:row-span-2">
+          <div className="pb-8" style={{ gridTemplateRows: 'auto 1fr' }}>
+            <div className="xl:pb-0 xl:col-span-3 xl:row-span-2">
               <div className="pb-4 prose dark:prose-dark max-w-none">{children}</div>
               <div className="pt-6 flex justify-between text-sm text-gray-700 dark:text-gray-300"></div>
             </div>
