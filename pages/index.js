@@ -9,7 +9,6 @@ const MAX_DISPLAY = 5;
 
 export async function getStaticProps() {
   const posts = await getAllFilesFrontMatter('blog');
-
   return { props: { posts } };
 }
 
@@ -20,10 +19,20 @@ export default function Home() {
       <div>
         <div className="my-6 flex flex-col items-center gap-x-12 xl:mb-12 xl:flex-row">
           <div>
-            <h3 className="font-bold text-2xl mt-4 md:text-3xl tracking-tight text-black dark:text-white">
-              Hey! I'm Chris Yin
-            </h3>
-            <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
+            <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+              Hey! I'm{' '}
+              <span
+                style={{
+                  color: '#fed7aa',
+                  textDecoration: 'underline',
+                  textDecorationThickness: '5px',
+                  textUnderlineOffset: '12px',
+                }}
+              >
+                Chris Yin
+              </span>
+            </h1>
+            <div className="pt-12 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
               <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
                 I'm a founder & investor. I'm a big fan of startups, investing, books, films, and
                 food. You can check out some of my <Link href={`/writing/`}>writing</Link>
