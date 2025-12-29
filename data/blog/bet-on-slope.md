@@ -3,7 +3,7 @@ title: Bet On Slope
 date: '2025-12-28'
 tags: ['life', 'startups']
 draft: false
-summary: why betting on slope is the most important heuristic out there
+summary: Focusing on slope over y-intercept applies to any decision where you are looking for outsized returns.
 ---
 
 A lot has changed since I've written here last. I plan to write more about it and what I've learned over the next few, but in short I've gone through a bunch of things personally, professionally, etc and it's given me several new ideas and tools that I now live by.
