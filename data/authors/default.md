@@ -7,7 +7,7 @@ twitter: https://twitter.com/chriseyin
 linkedin: https://www.linkedin.com/in/chriseyin
 ---
 
-Hey! Thanks for stopping by. I'm Chris Yin, and this is my personal blog. It's infrequently maintained, but I do try to keep it somewhat updated.
+Hey! Thanks for stopping by. I'm Chris Yin, and this is my personal site. It's infrequently maintained, but I do try to keep it somewhat updated.
 
 I've done a few things, but today I am one of the founders & CEO of [Plume Network](https://x.com/plumenetwork), a blockchain focused on RWAs. There's [a ton](https://www.coindesk.com/tech/2024/05/23/plume-layer-2-blockchain-for-real-world-assets-pulls-10m-in-seed-funding-from-haun-galaxy) [of stuff](https://fortune.com/crypto/2024/12/18/tokenization-plume-funding-blockchain-fintech/) [out there](https://www.theblock.co/post/357151/plume-mainnet-150-million-real-world-assets-deployed) [on us](https://www.coindesk.com/markets/2025/10/06/plume-network-registered-by-sec-as-transfer-agent-for-tokenized-securities) [already](https://www.nytimes.com/2025/12/17/technology/trump-crypto-unleashed.html) so I'll keep it brief -- we build a network, an ecosystem, and a blockchain focused on making it easy to interact with the real world onchain.
 
