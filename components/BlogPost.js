@@ -6,7 +6,7 @@ export default function BlogPost({ title, summary, date, slug }) {
     <li key={slug} className="py-4">
       <Link href={`/writing/${slug}`}>
         <a
-          className="block rounded transition-all hover:bg-[rgba(14,165,233,0.3)] group px-3 py-2 -mx-3 -my-2"
+          className="block rounded transition-all hover:bg-[rgba(14,165,233,0.15)] group px-3 py-2 -mx-3 -my-2"
           style={{ textDecoration: 'none', borderBottom: 'none' }}
         >
           <article className="xl:items-baseline">
