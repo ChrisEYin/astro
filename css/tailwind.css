@@ -33,9 +33,8 @@ input:-webkit-autofill:focus {
     transition: background-color 0.15s ease, color 0.15s ease;
   }
   a:hover {
-    color: #fed7aa;
+    color: #fed7aa !important;
     background-color: rgba(14, 165, 233, 0.3);
-    text-decoration: underline;
   }
   /* Remove styling from navigation */
   nav a,
