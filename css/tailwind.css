@@ -44,6 +44,9 @@ input:-webkit-autofill:focus {
     border-bottom: none;
     background-color: transparent;
   }
+  nav a.active {
+    border-bottom: 2px solid #0ea5e9 !important;
+  }
   nav a:hover,
   header a:hover {
     color: #fed7aa;
