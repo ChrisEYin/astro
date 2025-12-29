@@ -78,4 +78,11 @@ input:-webkit-autofill:focus {
     border-bottom: none;
     text-decoration: none;
   }
+
+  /* Remove styling from blog post list links */
+  .prose + a,
+  li a {
+    text-decoration: none !important;
+    border-bottom: none !important;
+  }
 }
