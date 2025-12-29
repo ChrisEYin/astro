@@ -28,7 +28,7 @@ input:-webkit-autofill:focus {
   a {
     color: #0ea5e9;
     text-decoration: underline;
-    border-bottom: 2px solid #0ea5e9;
+    border-bottom: 2.5px solid #0ea5e9;
     text-underline-offset: 5px;
     transition: background-color 0.15s ease, color 0.15s ease;
   }
@@ -46,9 +46,10 @@ input:-webkit-autofill:focus {
   }
   nav a:hover,
   header a:hover {
-    color: #6b7280;
-    background-color: transparent;
+    color: #fed7aa;
+    background-color: rgba(14, 165, 233, 0.3);
     border-bottom: none;
+    text-decoration: none !important;
   }
   /* Remove styling from blog post titles */
   article h3 a {
@@ -62,5 +63,19 @@ input:-webkit-autofill:focus {
     text-decoration: none;
     border-bottom: none;
     background-color: transparent;
+  }
+  /* Remove styling from footer */
+  footer a {
+    color: #0ea5e9;
+    transition: background-color 0.15s ease, color 0.15s ease;
+    border-bottom: none;
+    text-decoration: none;
+  }
+  footer a:hover {
+    color: #fed7aa !important;
+    background-color: rgba(14, 165, 233, 0.3);
+    background-color: transparent !important;
+    border-bottom: none;
+    text-decoration: none;
   }
 }
