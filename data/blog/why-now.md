@@ -3,15 +3,14 @@ title: Why Now
 date: '2020-04-10'
 tags: ['investing', 'venture', 'whynow', 'checklist']
 draft: false
-summary: This is the most important question in startups. There are no new ideas, only timing ideas.
+summary: This is the most important question in startups. There are no new ideas, only timing.
 ---
-
 
 One quesion I always focus on when meeting new companies is why now. The reason being - I don't believe there are new ideas. Every idea has already been thought up and likely tried already too. The only question is timing. What has changed in the world that now makes this idea viable vs. at any other point in time?
 
 The answer can be the difference between an ok company that was a slog and a great company that is up only. Yet given the importance I’m still surprised how often founders don't seem to have thought this through.
 
-Take telemedicine as a category. One of the first entrants in this category is a company called [Teladoc](https://en.wikipedia.org/wiki/Teladoc_Health) back in 2002. It was a sleepy company took over 13 years and had to raise over \$100M to go public. And even  after all that time and money, at IPO they still only had [\$43M in revenue and a \$600M market cap](https://rockhealth.com/deconstructing-teladoc-ipo-s-1/). While that's not a failure, it sure sounds like a slog - a lot of money and effort for a so-so outcome. Directionally right, but wrong timing. There wasn't a a compelling why now back then.
+Take telemedicine as a category. One of the first entrants in this category is a company called [Teladoc](https://en.wikipedia.org/wiki/Teladoc_Health) back in 2002. It was a sleepy company took over 13 years and had to raise over \$100M to go public. And even after all that time and money, at IPO they still only had [\$43M in revenue and a \$600M market cap](https://rockhealth.com/deconstructing-teladoc-ipo-s-1/). While that's not a failure, it sure sounds like a slog - a lot of money and effort for a so-so outcome. Directionally right, but wrong timing. There wasn't a a compelling why now back then.
 
 Contrast Teladoc's story to today's telemedicine startups. There are now a bunch of successful telemedicine startups growing at insane speeds. [Hims](https://www.forhims.com/) got started in 2017 and within 2 years got to [\$100M in recurring revenue](https://www.cnbc.com/2019/11/17/hims-aims-to-raise-200-million-as-sales-of-mens-health-products-grow.html) and is forecasting \$250M in 2020. It took them 2 years to do more than double what Teladoc did in 13 years. [Roman](https://www.getroman.com/), [Nurx](https://www.nurx.com/), [Lemonaid](https://www.lemonaidhealth.com/) have similar growth stories.
 
