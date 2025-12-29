@@ -6,7 +6,6 @@ import { useRouter } from 'next/router';
 
 const LayoutWrapper = ({ children }) => {
   const router = useRouter();
-
   return (
     <>
       <HeaderGradient />
@@ -14,18 +13,17 @@ const LayoutWrapper = ({ children }) => {
         <div className="flex flex-col justify-between h-screen">
           <header className="flex items-center py-10">
             <div className="flex flex-auto items-center justify-between">
-              <nav className="flex flex-1 items-center justify-center text-base leading-5">
+              <nav className="flex flex-1 items-center justify-center text-base leading-5 gap-4">
                 {headerNavLinks.map((link) => {
                   const isActive =
                     link.href === '/'
                       ? router.pathname === '/'
                       : router.pathname.startsWith(link.href);
-
                   return (
                     <Link
                       key={link.title}
                       href={link.href}
-                      className={`p-2 mr-4 font-medium text-gray-900 sm:p-2 dark:text-gray-100 hover:underline hover:rounded`}
+                      className="p-2 font-medium text-gray-900 sm:p-2 dark:text-gray-100 hover:underline hover:rounded"
                       style={
                         isActive
                           ? {
