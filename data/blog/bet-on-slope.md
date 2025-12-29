@@ -1,7 +1,7 @@
 ---
 title: Bet On Slope
 date: '2025-12-28'
-tags: ['life', 'startups', 'investing', 'hiring', 'plume']
+tags: ['life', 'startups', 'investing', 'hiring', 'plume', 'founder']
 draft: false
 summary: Focusing on slope over y-intercept applies to any decision where you are looking for outsized returns.
 ---
