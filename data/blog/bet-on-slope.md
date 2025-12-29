@@ -1,16 +1,10 @@
 ---
 title: Bet On Slope
 date: '2025-12-28'
-tags: ['life', 'startups']
+tags: ['life', 'startups', 'investing', 'hiring', 'plume']
 draft: false
 summary: Focusing on slope over y-intercept applies to any decision where you are looking for outsized returns.
 ---
-
-A lot has changed since I've written here last. I plan to write more about it and what I've learned over the next few, but in short I've gone through a bunch of things personally, professionally, etc and it's given me several new ideas and tools that I now live by.
-
-When I was thinking about what to come back with, the topics I listed out spanned a very wide range. Everything from how to think about markets, lessons about operating, how to grow quickly, thoughts on raising, scars from managing a public token, etc.
-
-But one in particular that kept surfacing and underscored many of the topics was actually an old one. The idea was that for most things in life, you can reduce your focus to just one thing -- betting on slope.
 
 A couple years ago when I was running product at RainforestQA, the phrase "hire for slope and not y-intercept" became popular. I'm not sure where it came from ([Sam Altman](https://x.com/sama) seems [to think](https://www.youtube.com/watch?v=93PaOPqzIpU) it was Gmail creator [Paul Buchheit](https://x.com/paultoo)), but it was pithy and quickly became common startup parlance.
 
