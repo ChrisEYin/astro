@@ -1,9 +1,9 @@
 ---
-title: Everything Is Crypto Except Crypto
+title: Everything Is Crypto Now Except Crypto
 date: '2026-2-21'
 tags: [startups', 'crypto', 'markets']
 draft: false
-summary: Everything is becoming how crypto operates. Except crypto.
+summary: Everthing seems to now resemble crypto. AI companies announcing nonsense, public equities trading like shitcoins. But not crypto.
 ---
 
 Crypto has always been different. Most industries (ie startups from Silicon Valley, finance on Wall Street, etc) all have a certain style, standard, culture, or decorum to them. They're often led by people that come from similar places (ie Stanford, Harvard, etc) and so it's no wonder they all have a certain feel to them.
