@@ -14,6 +14,7 @@ in progress
 - both can true
 - what can happen will
 - speed
+- christine stil chasing $100k
 
 ideas
 
