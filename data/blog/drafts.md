@@ -8,9 +8,13 @@ summary: Draft posts
 
 in progress
 
+- swagrid
+
+stagnant
+
+- miami rule
 - why crypto
 - ball control
-- miami rule
 - both can true
 - what can happen will
 - speed
@@ -32,3 +36,7 @@ ideas
   - just enough to do nothing
 - vc's are trash
 - just enough to do nothing
+- the last 10%
+- if you quit you're a punk
+- openai vs claude - there can always be another
+- observers vs doers
