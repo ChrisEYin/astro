@@ -28,10 +28,12 @@ Samples take an existing song that is already popular and puts a new twist on it
 
 Now wth AI, we can get the DJ's of directors. We can now take JK Rowling's source material and quickly make Black Potter. We can take The Sopranos and make it for Chinese people. Instead of Scorsese having to spend $90M to make a [western version](https://en.wikipedia.org/wiki/The_Departed) of [Infernal Affairs](https://en.wikipedia.org/wiki/Infernal_Affairs), someone can sample it and make it instantly.
 
-And similarly to music, remixing via AI will dramatically open up the world of content. Traditional films/tv shows/etc have been declining in popularity over time. But that's not because people don't want to watch things. It's that content hasn't evolved to what people want to watch. See [AI fruits](https://en.wikipedia.org/wiki/Fruit_Love_Island) for more.
+And similarly to music, remixing via AI will dramatically open up the world of visual content. Traditional films/tv shows/etc have been declining in popularity over time. But that's not because people don't want to watch things. It's that content hasn't evolved to what people want to watch.
 
-So similar to music, we will now 100x the types of visual media being created. The below chart shows the amount of music created over time. Each new technology is a step change in the amount being created.
+Similar to music, we will now 100x the types of visual media being created. The below chart shows the amount of music created over time. Each new technology is a step change in the amount being created. Each song can now live a thousand lives in a thousand different formats.
 
 ![music-created-over-time](/static/images/music-created-over-time.png)
 
-The same is finally happening for visual media. It's an exciting time to be a director!
+The same is finally happening for visual media. The tools are still pretty hacky, which is why we have [AI fruits](https://en.wikipedia.org/wiki/Fruit_Love_Island) instead of 7 full movies of Black Potter. But as they improve, we'll see this same chart for films / tv shows.
+
+It's an exciting time to be a director!
