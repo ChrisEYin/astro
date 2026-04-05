@@ -3,7 +3,7 @@ title: Black Potter
 date: '2026-04-05'
 tags: ['ai', 'market', 'prediction', 'trends', 'media', 'film']
 draft: false
-summary: A phrase I use a lot. I figured I would try to write out what it means.
+summary: Black Snape proves that we're finally ready. Sampling and remixing is finally coming to visual media.
 ---
 
 A few weeks ago HBO announced the reboot of the [Harry Potter series](<https://en.wikipedia.org/wiki/Harry_Potter_(TV_series)>). While this speaks to a different thread of how we are out of ideas, the more notable thing was that Snape was now going to be played by [Paapa Essiedu](https://en.wikipedia.org/wiki/Paapa_Essiedu), who is a black guy.
