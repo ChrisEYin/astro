@@ -2,7 +2,7 @@
 title: Forged In Fire
 date: '2026-06-07'
 tags: ['life', 'startups', 'founders', 'management']
-draft: false
+draft: true
 summary: Growth only happens in the hardest of conditions.
 ---
 
