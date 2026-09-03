@@ -3,7 +3,7 @@ title: Optimal Stopping
 date: '2026-08-04'
 tags: ['life', 'startups', 'management', 'operations']
 draft: false
-summary: Optimize for the first 37%
+summary: The biggest risk is overthinking. Use the 37% rule to make good decisions while still driving towards action.
 ---
 
 There's a concept called the [optimal stopping problem](https://en.wikipedia.org/wiki/Optimal_stopping). I originally read about this in a book called [Algorithms To Live By](https://www.amazon.sg/dp/1627790365).
