@@ -8,7 +8,7 @@ summary: Draft posts
 
 in progress
 
-- swagrid
+-
 
 stagnant
 
@@ -36,7 +36,7 @@ ideas
   - just enough to do nothing
 - vc's are trash
 - just enough to do nothing
-- the last 10%
+- the last 10% (https://x.com/boringbiz_/status/2040954043418243332?s=46)
 - if you quit you're a punk
 - openai vs claude - there can always be another
 - observers vs doers
