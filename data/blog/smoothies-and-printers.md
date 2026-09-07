@@ -8,9 +8,7 @@ summary: Ownership and excuses are two sides of the same coin. One of the easies
 
 One of the clearest signs of who is going to make it is ownership. You can tell immediately from a simple conversation who is high ownership and who isn't.
 
-High ownership people take responsibility. No matter if it's their personal life, their work, etc. -- they express things through the lens of what **_they_** could've done better.
-
-Because those who take responsibility for their actions ultimately take responsibility for their outcomes. It's not only incredibly valuable, but also incredibly rare.
+High ownership people take responsibility. No matter if it's their personal life, their work, etc. -- they express things through the lens of what **_they_** could've done better. Because those who take responsibility for their actions ultimately take responsibility for their outcomes. It's not only incredibly valuable, but also incredibly rare.
 
 There's a great talk from [Keith Rabois](https://x.com/rabois) on [How To Operate](https://www.youtube.com/watch?v=6fQHLK1aIBs). He articulates this idea by classifying people as either barrels or ammunition. A barrel is defined by someone who can take an idea all the way from start to finish. In his talk, he uses this example about trying to get smoothies to engineers at night.
 
