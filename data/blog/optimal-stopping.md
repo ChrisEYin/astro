@@ -18,7 +18,7 @@ So in the mall example, if you've allocated 10 minutes to search for parking the
 
 This framework dramatically simplifes most nebulous problems. Instead of struggling back and forth between thinking or acting, you can use the 37% rule. Observe the options, then go through 37% of them without picking. After that, keep reviewing the options but pick the next one that beats everything you have seen prior.
 
-Most meaningful problems in life have no fixed path. And so you see this a lot when people are presented with nebulous problems. They got bogged down thinking about every possible scenarios, all the different problems, etc. And while it's good to think about things, most of the time it's better [just to act](/writing/there-is-no-magic).
+Most meaningful problems in life have no fixed path. And so you see this a lot when people are presented with nebulous problems. They got bogged down thinking about every possible scenarios, all the different problems, etc. And while it's good to think about things, most of the time it's better [just to act](/writing/make-100-pots).
 
 But that doesn't mean you should just mindlessly act on everything. There is value in thinking things out, planning, etc. However most people I see struggle more with overthinking vs. overdoing.
 
@@ -26,4 +26,4 @@ Smart people are used to thinking & planning, often at the expense of action. Th
 
 However if you always act too quickly, you make easily avoidable mistakes. Most of the time, these are fine and the lessons gained from acting trump the time saved from optimal planning. But sometimes it's not.
 
-So use the Bezos's [one way vs. two way door](/writing/one-vs-two-way-doors) framework. If it's a two way door, bias to acting without worry. But if it's a one way door, then worth thinking. But to prevent yourself from overthinking and wasting cycles, use the 37% rule to make sure that while you stop and think, you still force action
+So use the Bezos's [one way vs. two way door](/writing/one-vs-two-way-doors) framework. If it's a two way door, bias to acting without worry. But if it's a one way door, then worth thinking. But to prevent yourself from overthinking and wasting cycles, use the 37% rule to make sure that while you stop and think, you still force action.
