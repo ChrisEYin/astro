@@ -1,5 +1,5 @@
 ---
-title: Ownership and Excuses
+title: Smoothies and Printers
 date: '2026-09-07'
 tags: ['life', 'startups', 'founders']
 draft: false
